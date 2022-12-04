@@ -1,33 +1,37 @@
-# fifth-week-homework
+# 5.Tab: NOTLAR
 
-## 1- Breaking Bad api uygulamamıza persistant özelliği kazandıracağız.
+## Notların Listelenme Ekranı
 
-### Uygulamamıza Yeni bir tab ekleyeceğiz: Notlar
+• Not eklerken seçilen sezon ve bölüm bilgileriyle beraber notlar bir tabloda görünür.
 
-• Ekranda bölümlerden aldığımız notların listesi olacak.
+• Ekle butonuna tıklayarak ekleme ekranına yönlendirilir.
 
-• Listeden sola kaydırarak eleman silebilmeliyiz.
+• Tablodan seçilen herhangi bir nota tıklandığında ise güncelleme ekranına yönlendirir.
 
-• Floating button şeklinde ekle butonumuz olacak.
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/101670054/205513428-9a2d51a9-eef6-4780-a57c-548ed3e47234.png">
 
-• Ekle butonuna bastığımızda ekle/düzenle ekranı present edilecek. Boş bilgiler
+## Güncelleme Ekranı
 
-• Listeden item seçtiğimizde ekle/düzenle ekranı present edilecek. Seçtiğimiz item bilgileri ile.
+• Tablodan tıklanılan notun güncelleme ekranı açılır.
 
-### Ekleme/Düzenleme Ekranı
+• Güncelleme ekranında bölüm, sezon ve not bilgisini güncelleyip update butonuna tıklandığı zaman bilgileri günceller ve listeleme ekranında güncel değerleri gösterir.
 
-• Ekleme ekranında sezon, bölüm bilgisi girip notumuzu yazacağız.
+<img width="422" alt="image" src="https://user-images.githubusercontent.com/101670054/205513612-1938580b-3bdc-4708-9982-c736571261ff.png"> <img width="425" alt="image" src="https://user-images.githubusercontent.com/101670054/205513686-67e0192c-f44c-4f5c-a150-d530f1d89922.png">
 
-• Ekleme ekranındaki kaydet butonu ile CoreData üzerinde kayıt edeceğiz.
+• Güncelleme ekranında note değeri güncellenmezse uyarı verir.
 
-• Eğer item düzenleme ile gelindiyse ilgili not update edilmelidir.
+![image](https://user-images.githubusercontent.com/101670054/205514736-6fa32590-fc09-4be2-bad7-3c419a1ffd34.png)
 
 
-### 2- Clean Code - 5, 6, 7, 8 chapterlar özetlenmelidir.
+## Ekleme Ekranı
 
-### 3- Crack the Interviews - 1, 2, 3 Çalışılacak.
- 
-### 4- Leet Code üzerinden seçilmiş 3 soru çözülecek ve soruya ait görseller repoya eklenecek. 
-Soru çözüldükten sonra submission kısmından görseli alabilirsiniz. Örn:
+• Listeleme ekranındaki ekle butonuna tıklayarak ekleme ekranı açılır.
 
-<img width="584" alt="image" src="https://user-images.githubusercontent.com/65663370/204152185-1f073bb2-4e0d-4466-b29f-61adcbe15a8f.png">
+• Girilen bilgiler ile ekle denildiği zaman listeleme ekranındaki tabloya eklenir.
+
+<img width="446" alt="image" src="https://user-images.githubusercontent.com/101670054/205513788-4509601d-176d-4994-8674-b16be7a440dd.png"><img width="452" alt="image" src="https://user-images.githubusercontent.com/101670054/205513800-71dc955a-2587-4997-9005-7ae53aaca3c1.png">
+
+• Ekleme ekranında herhangi bir değer boşsa uyarı verir.
+
+![image](https://user-images.githubusercontent.com/101670054/205514791-175ff3f4-1bf0-424e-b1a4-05596a346bcc.png)
+

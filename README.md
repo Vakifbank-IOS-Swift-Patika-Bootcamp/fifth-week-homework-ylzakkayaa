@@ -8,7 +8,7 @@
 
 • Tablodan seçilen herhangi bir nota tıklandığında ise güncelleme ekranına yönlendirir.
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/101670054/205513428-9a2d51a9-eef6-4780-a57c-548ed3e47234.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/101670054/205513428-9a2d51a9-eef6-4780-a57c-548ed3e47234.png">
 
 ## Güncelleme Ekranı
 
@@ -16,7 +16,7 @@
 
 • Güncelleme ekranında bölüm, sezon ve not bilgisini güncelleyip update butonuna tıklandığı zaman bilgileri günceller ve listeleme ekranında güncel değerleri gösterir.
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/101670054/205513612-1938580b-3bdc-4708-9982-c736571261ff.png"> <img width="300" alt="image" src="https://user-images.githubusercontent.com/101670054/205513686-67e0192c-f44c-4f5c-a150-d530f1d89922.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/101670054/205513612-1938580b-3bdc-4708-9982-c736571261ff.png"> <img width="400" alt="image" src="https://user-images.githubusercontent.com/101670054/205513686-67e0192c-f44c-4f5c-a150-d530f1d89922.png">
 
 • Güncelleme ekranında note değeri güncellenmezse uyarı verir.
 
@@ -29,7 +29,7 @@
 
 • Girilen bilgiler ile ekle denildiği zaman listeleme ekranındaki tabloya eklenir.
 
-<img width="446" alt="image" src="https://user-images.githubusercontent.com/101670054/205513788-4509601d-176d-4994-8674-b16be7a440dd.png"><img width="452" alt="image" src="https://user-images.githubusercontent.com/101670054/205513800-71dc955a-2587-4997-9005-7ae53aaca3c1.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/101670054/205513788-4509601d-176d-4994-8674-b16be7a440dd.png"><img width="400" alt="image" src="https://user-images.githubusercontent.com/101670054/205513800-71dc955a-2587-4997-9005-7ae53aaca3c1.png">
 
 • Ekleme ekranında herhangi bir değer boşsa uyarı verir.
 
